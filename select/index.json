@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "透明",
+  "base_artist": "小田桐仁義",
+  "createdAt": "2025-12-03T23:35:42.177231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "Cö shu Nie",
+      "has_synced": true,
+      "path": "select/01_透明_Cö_shu_Nie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/02_透明_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "G.E.M. 邓紫棋",
+      "has_synced": true,
+      "path": "select/03_透明_G.E.M._邓紫棋.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "NoisyCell",
+      "has_synced": true,
+      "path": "select/04_透明_NoisyCell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "透明 - Selfless",
+      "artist": "G.E.M.",
+      "has_synced": true,
+      "path": "select/05_透明_-_Selfless_G.E.M..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "*Luna",
+      "has_synced": true,
+      "path": "select/06_透明_Luna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "Rene Liu",
+      "has_synced": true,
+      "path": "select/07_透明_Rene_Liu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "フジファブリック",
+      "has_synced": true,
+      "path": "select/08_透明_フジファブリック.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "劉若英",
+      "has_synced": true,
+      "path": "select/09_透明_劉若英.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "透明 / 氧氣 - Live",
+      "artist": "劉若英",
+      "has_synced": true,
+      "path": "select/10_透明___氧氣_-_Live_劉若英.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/11_透明_sumika.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ただ、透明",
+      "artist": "ユノギ シロ",
+      "has_synced": true,
+      "path": "select/12_ただ、透明_ユノギ_シロ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "刘若英",
+      "has_synced": true,
+      "path": "select/13_透明_刘若英.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "梁咏琪",
+      "has_synced": true,
+      "path": "select/14_透明_梁咏琪.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "黎明",
+      "has_synced": true,
+      "path": "select/15_透明_黎明.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "古内東子",
+      "has_synced": false,
+      "path": "select/16_透明_古内東子.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "透明",
+      "artist": "G.E.M. 邓紫棋",
+      "has_synced": true,
+      "path": "select/17_透明_G.E.M._邓紫棋.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "透明",
+      "artist": "小田桐仁義",
+      "has_synced": false,
+      "path": "select/pl_01_透明_小田桐仁義.txt"
+    }
+  ]
+}
